@@ -1,0 +1,44 @@
+[
+    {
+        "codigo": "KD-001",
+        "titulo": "La Gloria",
+        "genero": "Drama / Venganza",
+        "plataforma": "Netflix",
+        "episodios": 16
+    },
+    {
+        "codigo": "KD-002",
+        "titulo": "La Buena Mala Madre",
+        "genero": "Drama / Comedia",
+        "plataforma": "Netflix",
+        "episodios": 14
+    },
+    {
+        "codigo": "KD-003",
+        "titulo": "Juventud De Mayo",
+        "genero": "Romance / Melodrama",
+        "plataforma": "Viki",
+        "episodios": 12
+    },
+    {
+        "codigo": "KD-004",
+        "titulo": "Juego De La Muerte",
+        "genero": "Fantasía / Thriller",
+        "plataforma": "Prime Video",
+        "episodios": 8
+    },
+    {
+        "codigo": "KD-005",
+        "titulo": "Belleza Verdadera",
+        "genero": "Comedia Romántica",
+        "plataforma": "Netflix / Viki",
+        "episodios": 16
+    },
+    {
+        "codigo": "KD-007",
+        "titulo": "Propuesta Laboral",
+        "genero": "Romance/ Oficina",
+        "plataforma": "Netflix",
+        "episodios": 12
+    }
+]
